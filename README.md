@@ -8,9 +8,9 @@
 # Wesley Gonçalves de Menezes Santuches
 
 ### Sobre mim 
-<p>Olá, meu nome é Wesley, tenho 27 anos e estou cursando superior em Análise e Desenvolvimento de Sistemas - UNICESUMAR-SC
+<p>Olá, meu nome é Wesley, tenho 28 anos e estou cursando superior Ciências da Computação na UNOESC-Xanxerê
 </p>
-<p>Sou Apaixonado por técnologia, comecei a estudar programação sozinho com 21 anos e um ano depois entrei na faculdade.
+<p>Sou Apaixonado por técnologia, comecei a estudar programação sozinho com 21 anos e um ano depois continuei com cursos da DIO e videos do youtube.
 </p>
 <p>Meu atual objetivo é me aperfeiçoar em tecnologias voltada para Full Stack.
 </p>
